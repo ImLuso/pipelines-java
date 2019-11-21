@@ -1,3 +1,4 @@
+[![Build Status](https://iamluso.visualstudio.com/Kubernetes/_apis/build/status/ImLuso.pipelines-java?branchName=master)](https://iamluso.visualstudio.com/Kubernetes/_build/latest?definitionId=15&branchName=master)
 
 # Contributing
 
